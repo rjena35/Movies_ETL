@@ -1,5 +1,7 @@
 #Adding config.py
 config.py
+#ignroning ratings.csv
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
